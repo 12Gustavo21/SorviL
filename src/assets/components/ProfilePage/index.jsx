@@ -117,6 +117,7 @@ const ProfilePage = () => {
               <button
                 type="submit"
                 className="rounded-md bg-green-600 px-4 py-2 text-sm font-medium text-white shadow hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500"
+                onClick={() => alert("Alterações salvas com sucesso!")}
               >
                 Salvar Alterações
               </button>
