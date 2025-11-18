@@ -1,10 +1,10 @@
-# Floricultura
+# SorviL
 
 > Status : Finished project ✅ / Open PR
 
-## Markup Language | Graduation - Challenge
+## Graduation - Challenge
 
-<img width ='800px' src ='./assets/img/home-print.png' />
+<img width ='800px' src ='./src/assets/img/home-print.png' />
 
 _Technologies_
 
@@ -15,8 +15,8 @@ _Technologies_
 ### How to use
 
 - git clone https://github.com/12Gustavo21/SorviL.git or download the zip
-- unzip if you download the zip
+- npm install or yarn install
 - code . (if you use VSCode)
-- start a live server
+- npm start or yarn start
 
 ## 💻 Online Page: https://sorvil.vercel.app
