@@ -45,7 +45,7 @@ const MobileMenu = ({ isOpen, onClose }) => {
             <a href="#" className="flex items-center rounded-md px-3 py-2 text-lg font-medium text-gray-700 hover:bg-gray-100">
               <img
                 className="h-8 w-8 rounded-full"
-                src="https://api.dicebear.com/8.x/lorelei/svg?seed=Baby&backgroundColor=38bdf8"
+                src="https://api.dicebear.com/8.x/lorelei/svg?seed=Baby&backgroundColor=00a63e"
                 alt="Avatar"
               />
               <span className="ml-3">Meu Perfil</span>
