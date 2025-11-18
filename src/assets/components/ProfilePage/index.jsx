@@ -75,7 +75,7 @@ const ProfilePage = () => {
                   type="text"
                   id="username"
                   defaultValue="ana_leitora"
-                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
+                  className="mt-1 p-1 ps-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
                 />
               </div>
 
@@ -86,7 +86,7 @@ const ProfilePage = () => {
                 <textarea
                   id="bio"
                   rows="4"
-                  className="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
+                  className="mt-1 pt-2 ps-2 block w-full rounded-md border-gray-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm"
                   defaultValue="Amante de fantasia e ficção científica. Sempre em busca da próxima grande leitura."
                 ></textarea>
               </div>
